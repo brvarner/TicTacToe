@@ -1,8 +1,7 @@
-.box{
-    border: 1px solid black;
-
+.board{
+    padding-top: 3em;
 }
 
-.board{
-    border: 1px solid black;
+h1{
+    text-align: center;
 }
