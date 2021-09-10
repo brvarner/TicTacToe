@@ -2,8 +2,20 @@
     padding-top: 3em;
 }
 
+body{
+   background-color: rgb(163, 48, 48);
+   font-family: 'Noto Sans JP', sans-serif;
+}
+
 h1{
     text-align: center;
+    font-size: 5em;
+}
+
+h2{
+    text-align: center;
+    font-size: 2em;
+    color: rgb(15, 47, 15);
 }
 
 .row > div{
@@ -11,6 +23,17 @@ h1{
     height: 100px; 
     width:100px;
     cursor: pointer;
+    line-height: 100px;
+    font-size: 75px;
+    color:gold;
+    background-color: rgb(26, 114, 26);
+}
+
+.reset{
+    cursor:pointer;
+    margin: 5em 0em 3em 93em; 
+    font-family: 'Noto Sans JP', sans-serif;
+    padding: .5em .5em;
 }
 
 .row {
